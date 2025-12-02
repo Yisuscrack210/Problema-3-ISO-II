@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>ISO2-2025-BC02-Testing-P3</name>
+=======
+	<name>ISO25-ISO2-BC02-Testing-P3</name>
+>>>>>>> refs/heads/develop
 	<comment></comment>
 	<projects>
 	</projects>
