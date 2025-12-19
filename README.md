@@ -8,10 +8,10 @@ Reporistorio usado para la resolución del problema 3 del trabajo teórico y pr�
 Grupo de trabajo: BC02  
 | Nombres | Rol |
 | :-------: | :--------: |
-| Jesús Márquez Duque | Implementación del problema |
-| Carlos Salgado Rojas | Implementación del problema |
-| Ismael Serrano Usero | Implementación de las pruebas |
-| Ainhoa Sánchez Esteban | Implementación de las pruebas |
+| Jesús Márquez Duque | Implementación del pseudocódigo |
+| Carlos Salgado Rojas | Implementación del pseudocódigo |
+| Ismael Serrano Usero | Implementación de las pruebas de cobertura |
+| Ainhoa Sánchez Esteban | Implementación de las pruebas de cobertura |
 | Manuel Porrero Sierra | Diseño de los casos de prueba |
 | David Ruiz Sánchez | Diseño de los casos de prueba |
 
